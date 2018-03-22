@@ -1,0 +1,6 @@
+C:\Users\Saul\Documents\GitHub\Tarea\EjercicioTarea3\EjercicioTarea3\bin\Debug\EjercicioTarea3.exe.config
+C:\Users\Saul\Documents\GitHub\Tarea\EjercicioTarea3\EjercicioTarea3\bin\Debug\EjercicioTarea3.exe
+C:\Users\Saul\Documents\GitHub\Tarea\EjercicioTarea3\EjercicioTarea3\bin\Debug\EjercicioTarea3.pdb
+C:\Users\Saul\Documents\GitHub\Tarea\EjercicioTarea3\EjercicioTarea3\obj\Debug\EjercicioTarea3.csprojResolveAssemblyReference.cache
+C:\Users\Saul\Documents\GitHub\Tarea\EjercicioTarea3\EjercicioTarea3\obj\Debug\EjercicioTarea3.exe
+C:\Users\Saul\Documents\GitHub\Tarea\EjercicioTarea3\EjercicioTarea3\obj\Debug\EjercicioTarea3.pdb
