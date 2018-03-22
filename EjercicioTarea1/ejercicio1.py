@@ -5,7 +5,7 @@ try:
     while inc == "Si":
         print("Ingresa la distancia en Km")
         distancia = float(input())
-        print("Ingresa el tiempo en horas")
+        print("Ingresa el tiempo en Horas")
         tiempo = float(input())
         velocidad = round(distancia/tiempo, 2)
         print(f"La velcidad es: {velocidad} Km/h")
